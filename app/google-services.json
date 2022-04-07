@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1039570472254",
+    "project_id": "curbrepo",
+    "storage_bucket": "curbrepo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1039570472254:android:bf082e95fe05faca3bb06f",
+        "android_client_info": {
+          "package_name": "com.example.curbrepo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1039570472254-mo18bpdmkdosvdm29kmm9pdk2q1pempo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmZ1x8dXg7OEj3HQYVChrZymFCWkZ5SjA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1039570472254-mo18bpdmkdosvdm29kmm9pdk2q1pempo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
